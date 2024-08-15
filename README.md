@@ -9,6 +9,7 @@ Submits SQL injection payloads to form inputs and checks for SQL errors in the r
 Reports potential SQL injection vulnerabilities.
 
 # Requirements
->Python 3.x
->requests library
->beautifulsoup4 library
+Python 3.x
+'requests' library
+'beautifulsoup4' library
+
